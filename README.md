@@ -126,7 +126,7 @@ project/
 
 ---
 
-## **Logs**
+## **Logs (pendiente)**
 
 El sistema de logs registra eventos importantes, incluyendo:
 
