@@ -1,0 +1,12 @@
+2024-11-29 17:56:58 function toLocaleUpperCase() { [native code] }: Connected to MongoDB successfully
+2024-11-29 17:57:34 INFO: Connected to MongoDB successfully
+2024-11-29 17:59:42 INFO: Connected to MongoDB successfully
+2024-11-29 18:00:04 INFO: GET /api/users
+2024-11-29 18:01:02 INFO: Connected to MongoDB successfully
+2024-11-29 18:01:07 INFO: GET /api/user
+2024-11-29 18:02:36 INFO: GET /api/users
+2024-11-29 18:03:58 INFO: GET /api/users?page=1&limit=5
+2024-11-29 18:28:56 INFO: Connected to MongoDB successfully
+2024-11-29 18:29:27 INFO: Connected to MongoDB successfully
+2024-11-29 18:30:19 ERROR: Connected to MongoDB successfully
+2024-11-29 18:30:27 INFO: Connected to MongoDB successfully
